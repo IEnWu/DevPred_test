@@ -1,0 +1,17 @@
+scikit-learn == 1.4.2
+numpy ==1.25.0
+pandas == 2.0.3
+flask 
+gunicorn==20.1.0
+Jinja2==3.1.2
+flask_material
+urllib3 == 2.0.3
+werkzeug == 3.0.2
+joblib
+rdkit  == 2023.09.6
+matplotlib
+IPython
+catboost ==1.2.5
+Pillow
+gunicorn ==20.1.0
+catboost==1.2.5
